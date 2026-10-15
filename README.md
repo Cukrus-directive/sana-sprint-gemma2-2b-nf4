@@ -2,7 +2,7 @@
 license: other
 license_name: gemma-and-apache-2.0
 license_link: https://huggingface.co/cukrus/sana-sprint-gemma2-2b-nf4/blob/main/NOTICE
-base_model: Efficient-Large-Model/Sana_Sprint_0.6B_1024px_diffusers
+base_model: google/gemma-2-2b-it
 base_model_relation: quantized
 library_name: transformers
 tags:
